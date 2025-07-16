@@ -51,7 +51,7 @@
 ### 💬 Let's Connect  
 📧 **Email:** [itzhaseebather@gmail.com](mailto:itzhaseebather@gmail.com)  
 🌐 **Portfolio:** [Optimizy.me](https://optimizy.me)  
-📷 **Instagram:** [@itz_haseeb71](https://instagram.com/itz_haseeb71)  
+📷 **Instagram:** [@itzhaseeb71](https://instagram.com/itzhaseeb71)  
 
 <p align="left">
   <a href="https://instagram.com/itz_haseeb" target="blank">
