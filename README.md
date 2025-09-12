@@ -9,7 +9,6 @@
 
 ### 🚀 About Me  
 💻 Full-stack developer with expertise in **WordPress, MERN Stack, and Custom Web Solutions**.  
-🎯 Passionate about crafting **high-performance, user-friendly, and visually stunning websites**.  
 🌱 Currently diving deep into **MERN Stack & Advanced JavaScript Concepts**.  
 🛠️ Always refining my skills to deliver **clean, efficient, and scalable code**.  
 ⚡ Fun Fact: **I believe good code is like good humor—clean, precise, and makes people happy.**  
