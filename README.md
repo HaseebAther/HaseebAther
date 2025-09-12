@@ -50,14 +50,6 @@
 
 ### 💬 Let's Connect  
 📧 **Email:** [itzhaseebather@gmail.com](mailto:itzhaseebather@gmail.com)  
-🌐 **Portfolio:** [Optimizy.me](https://optimizy.me)  
-📷 **Instagram:** [@itzhaseeb71](https://instagram.com/itzhaseeb71)  
-
-<p align="left">
-  <a href="https://instagram.com/itz_haseeb" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
