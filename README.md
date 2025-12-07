@@ -41,7 +41,7 @@
 ---
 
 ### 📌 Current Projects  
-- 🔭 **[Blackoceanshipping](https://blackoceanshipping.com)** – Working on a scalable business solution.  
+- 🔭 **[15mhub.com](https://15mhub.com)** – Working on a scalable business solution.  
 - 🌱 **Exploring MERN Stack** – Enhancing my full-stack skills.  
 - 🛠️ **Developed 'BodySoul Management' Plugin** – A custom WordPress booking system.  
 
@@ -49,13 +49,6 @@
 
 ### 💬 Let's Connect  
 📧 **Email:** [itzhaseebather@gmail.com](mailto:itzhaseebather@gmail.com)  
-
----
-
-### 🔥 GitHub Stats  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=haseebather&show_icons=true&theme=radical" alt="Haseeb's GitHub stats" />
-</p>  
 
 ---
 
