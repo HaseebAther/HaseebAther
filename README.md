@@ -11,6 +11,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HaseebAther&label=INTEL%20VIEWS&color=4b5320&style=for-the-badge" alt="Profile views" />
   <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/FIVERR-HIRE%20ME-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Fiverr" /></a>
+  <a href="https://www.upwork.com/freelancers/~014e6c714a4eb2b22d"><img src="https://img.shields.io/badge/UPWORK-HIRE%20ME-14a800?style=for-the-badge&logo=upwork&logoColor=e8e4d8&labelColor=0a0b08" alt="Upwork" /></a>
   <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/COMMS-OPEN-4b5320?style=for-the-badge&logo=gmail&logoColor=e8e4d8&labelColor=0a0b08" alt="Email" /></a>
   <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-c0392b?style=for-the-badge&labelColor=0a0b08" alt="Status" />
 </p>
@@ -100,6 +101,7 @@ A custom DocuSign alternative for a law firm: edit documents, request and collec
 
 <p align="center">
   <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/FULL%20MISSION%20LOG-FIVERR%20PORTFOLIO-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Full portfolio on Fiverr" /></a>
+  <a href="https://www.upwork.com/freelancers/~014e6c714a4eb2b22d"><img src="https://img.shields.io/badge/SERVICE%20RECORD-UPWORK%20PROFILE-14a800?style=for-the-badge&logo=upwork&logoColor=e8e4d8&labelColor=0a0b08" alt="Upwork profile" /></a>
 </p>
 
 ---
@@ -162,6 +164,7 @@ A custom DocuSign alternative for a law firm: edit documents, request and collec
 <p align="center">
   <i>Drowning in manual tickets, orders or copy-paste workflows? Call in an airstrike of automation.</i><br/><br/>
   <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/HIRE%20ON-FIVERR-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Hire on Fiverr" /></a>
+  <a href="https://www.upwork.com/freelancers/~014e6c714a4eb2b22d"><img src="https://img.shields.io/badge/HIRE%20ON-UPWORK-14a800?style=for-the-badge&logo=upwork&logoColor=e8e4d8&labelColor=0a0b08" alt="Hire on Upwork" /></a>
   <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/itzhaseebather%40gmail.com-OPEN%20COMMS-c0392b?style=for-the-badge&logo=gmail&logoColor=e8e4d8&labelColor=0a0b08" alt="Email me" /></a>
 </p>
 
