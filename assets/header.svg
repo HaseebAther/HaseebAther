@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300" role="img" aria-label="Haseeb Ather, callsign Ghost">
+  <style>
+    .t{font-family:Impact,Haettenschweiler,'Arial Narrow Bold','Arial Black',sans-serif}
+    .m{font-family:Consolas,'Liberation Mono','Courier New',monospace}
+    @keyframes scan{from{transform:translateY(-60px)}to{transform:translateY(320px)}}
+    .scan{animation:scan 4.5s linear infinite}
+    @keyframes blink{50%{opacity:.15}}
+    .blink{animation:blink 1.1s steps(1) infinite}
+    @keyframes spin{to{transform:rotate(360deg)}}
+    .ring{transform-origin:170px 150px;animation:spin 22s linear infinite}
+    .ring2{transform-origin:170px 150px;animation:spin 12s linear infinite reverse}
+    @keyframes flick{0%,90%,100%{opacity:1}91%{opacity:.35}92%{opacity:1}95%{opacity:.6}96%{opacity:1}}
+    .flick{animation:flick 6s infinite}
+    @keyframes rise{from{opacity:0;transform:translateY(10px)}to{opacity:1;transform:none}}
+    .r1{animation:rise .8s ease-out both}
+    .r2{animation:rise .8s .35s ease-out both}
+    .r3{animation:rise .8s .7s ease-out both}
+    .r4{animation:rise .8s 1.05s ease-out both}
+    @keyframes glow{50%{opacity:.35}}
+    .eye{animation:glow 2.4s ease-in-out infinite}
+  </style>
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1a1e14" stroke-width="1"/>
+    </pattern>
+    <pattern id="haz" width="16" height="16" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="8" height="16" fill="#4b5320"/>
+    </pattern>
+    <radialGradient id="vig" cx="50%" cy="50%" r="70%">
+      <stop offset="55%" stop-color="#0a0b08" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity=".85"/>
+    </radialGradient>
+    <linearGradient id="scanG" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#8f9d5a" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#8f9d5a" stop-opacity=".12"/>
+      <stop offset="1" stop-color="#8f9d5a" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="redG">
+      <stop offset="0" stop-color="#ff4b3a"/>
+      <stop offset="1" stop-color="#c0392b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- battlefield backdrop -->
+  <rect width="900" height="300" fill="#0a0b08"/>
+  <rect width="900" height="300" fill="url(#grid)"/>
+  <g fill="none" stroke="#1f2418" stroke-width="1.2">
+    <path d="M300 40 C420 10 520 90 640 60 S840 20 900 70"/>
+    <path d="M300 70 C430 40 520 120 650 90 S840 50 900 100"/>
+    <path d="M320 250 C440 220 560 280 680 240 S850 210 900 240"/>
+    <path d="M340 275 C450 250 570 300 690 268 S850 240 900 268"/>
+  </g>
+
+  <!-- target rings -->
+  <g fill="none">
+    <circle class="ring" cx="170" cy="150" r="108" stroke="#4b5320" stroke-width="2" stroke-dasharray="4 10"/>
+    <circle class="ring2" cx="170" cy="150" r="122" stroke="#8f9d5a" stroke-width="1.5" stroke-dasharray="70 18 8 18" opacity=".55"/>
+    <g stroke="#8f9d5a" stroke-width="2" opacity=".8">
+      <path d="M170 18V36M170 264V282M38 150H56M284 150H302"/>
+    </g>
+  </g>
+
+  <!-- balaclava -->
+  <path d="M95 272 C88 200 92 120 110 86 C130 48 210 48 230 86 C248 120 252 200 245 272 Z" fill="#14170f" stroke="#2f3a1c" stroke-width="2"/>
+  <!-- skull print -->
+  <g class="flick">
+    <ellipse cx="170" cy="134" rx="52" ry="55" fill="#e8e4d8"/>
+    <path d="M126 158 Q128 206 150 214 L190 214 Q212 206 214 158 Z" fill="#e8e4d8"/>
+    <polygon points="126,122 162,133 158,157 132,153" fill="#0a0b08"/>
+    <polygon points="214,122 178,133 182,157 208,153" fill="#0a0b08"/>
+    <circle class="eye" cx="146" cy="143" r="9" fill="url(#redG)"/>
+    <circle class="eye" cx="194" cy="143" r="9" fill="url(#redG)"/>
+    <polygon points="170,160 161,178 170,174 179,178" fill="#0a0b08"/>
+    <g stroke="#0a0b08" stroke-width="2.2">
+      <path d="M140 193H200"/>
+      <path d="M147 184V205M155 184V206M163 184V207M170 184V207M177 184V207M185 184V206M193 184V205"/>
+    </g>
+    <path d="M150 92 L158 104 L152 112" fill="none" stroke="#0a0b08" stroke-width="1.6"/>
+    <path d="M204 108 L196 116" fill="none" stroke="#0a0b08" stroke-width="1.4"/>
+  </g>
+
+  <!-- dossier text -->
+  <g class="m r1" font-size="13" fill="#8f9d5a" letter-spacing="2">
+    <text x="320" y="72">// TASK FORCE: FULL-STACK + AI  ·  CLEARANCE: LEVEL 5</text>
+  </g>
+  <g class="r2">
+    <text class="t flick" x="316" y="152" font-size="74" fill="#e8e4d8" letter-spacing="5">HASEEB ATHER</text>
+  </g>
+  <g class="m r3" font-size="16" fill="#8f9d5a" letter-spacing="3">
+    <text x="320" y="190">CALLSIGN: <tspan fill="#e8e4d8" font-weight="bold">GHOST</tspan>  //  AI AUTOMATION ENGINEER</text>
+  </g>
+  <g class="m r4" font-size="12" letter-spacing="2">
+    <rect x="320" y="210" width="96" height="24" fill="none" stroke="#c0392b"/>
+    <circle class="blink" cx="334" cy="222" r="4" fill="#c0392b"/>
+    <text x="345" y="226" fill="#c0392b">ACTIVE</text>
+    <text x="432" y="226" fill="#8a8778">LOC: [REDACTED]   ·   SIGNAL: <tspan fill="#8f9d5a">▮▮▮▮</tspan><tspan fill="#2f3a1c">▮</tspan></text>
+  </g>
+
+  <!-- HUD chrome -->
+  <g class="m" font-size="11" letter-spacing="2" fill="#8a8778">
+    <circle class="blink" cx="30" cy="27" r="4" fill="#c0392b"/>
+    <text x="40" y="31">REC</text>
+    <text x="870" y="31" text-anchor="end">NV-MODE // FEED 01</text>
+  </g>
+  <g fill="none" stroke="#8f9d5a" stroke-width="2">
+    <path d="M12 46V12H46M854 12H888V46M12 254V288H46M854 288H888V254"/>
+  </g>
+  <rect x="0" y="292" width="900" height="8" fill="url(#haz)" opacity=".7"/>
+
+  <rect class="scan" x="0" y="0" width="900" height="60" fill="url(#scanG)"/>
+  <rect width="900" height="300" fill="url(#vig)"/>
+</svg>

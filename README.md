@@ -1,158 +1,151 @@
-<!-- ═══════════════════════════  HEADER  ═══════════════════════════ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Haseeb%20Ather&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%E2%80%A2%20Automation%20Architect%20%E2%80%A2%20Pipeline%20Builder&descAlignY=60&descSize=18&animation=fadeIn" width="100%" alt="Haseeb Ather" />
+  <img src="assets/header.svg" width="100%" alt="Haseeb Ather — Callsign: Ghost" />
 </p>
 
 <p align="center">
   <a href="https://github.com/HaseebAther">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=24C6DC&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=50&lines=I+build+machines+that+build+websites+%F0%9F%A4%96;Next.js+15+%E2%80%A2+PostgreSQL+%E2%80%A2+node-cron+%E2%80%A2+Claude+API;One+codebase+%E2%86%92+many+niches+%E2%86%92+zero+manual+publishing;Self-hosted+on+a+VPS+I+configured+myself+%F0%9F%90%A7;Clean+code+is+like+good+humor+%E2%80%94+it+just+lands." alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=3000&pause=900&color=8F9D5A&center=true&vCenter=true&width=760&height=44&lines=%3E+CALLSIGN%3A+GHOST+%2F%2F+OPERATOR%3A+HASEEB+ATHER;%3E+ROLE%3A+AI+AUTOMATION+ENGINEER+%2B+FULL-STACK+DEV;%3E+MISSION%3A+KILL+MANUAL+WORK.+LEAVE+NO+TICKET+BEHIND.;%3E+CONFIRMED%3A+7-AGENT+AI+SQUADS+%C2%B7+240%2B+AUTOMATIONS;%3E+BUGS+ELIMINATED.+NEXT+DEPLOY%3A+T-MINUS+0." alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HaseebAther&label=PROFILE%20VIEWS&color=24c6dc&style=for-the-badge" alt="Profile views" />
-  <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Talk-302b63?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://15mhub.com"><img src="https://img.shields.io/badge/15mhub.com-Live-0f0c29?style=for-the-badge&logo=googlechrome&logoColor=24c6dc" alt="15mhub" /></a>
-  <img src="https://img.shields.io/badge/Status-Shipping-24c6dc?style=for-the-badge&logo=rocket&logoColor=white" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=HaseebAther&label=INTEL%20VIEWS&color=4b5320&style=for-the-badge" alt="Profile views" />
+  <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/FIVERR-HIRE%20ME-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Fiverr" /></a>
+  <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/COMMS-OPEN-4b5320?style=for-the-badge&logo=gmail&logoColor=e8e4d8&labelColor=0a0b08" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE%20DUTY-c0392b?style=for-the-badge&labelColor=0a0b08" alt="Status" />
 </p>
 
 ---
 
-## `> whoami`
+## ▣ OPERATOR DOSSIER
 
-```ts
-const haseeb = {
-  role:        "Full-Stack Developer",
-  base:        "Pakistan 🇵🇰",
-  buildsWith:  ["Next.js", "React", "Node.js", "TypeScript", "PostgreSQL", "WordPress"],
-  obsessedWith:["automation", "SEO at scale", "self-hosting", "systems that run while I sleep"],
-  currently:   "Running a multi-niche AI content pipeline in production",
-  learning:    ["Advanced JS internals", "Distributed jobs & queues", "Infra hardening"],
-  funFact:     "Good code is like good humor — clean, precise, and makes people happy.",
-  askMeAbout:  ["CRON pipelines", "Next.js App Router", "SSR / prerendering", "WordPress plugins"],
-};
+```yaml
+operator:     Haseeb Ather
+callsign:     GHOST
+role:         AI Automation Engineer // Full-Stack Developer
+base:         Pakistan
+primary:      [AI agents, workflow automation, Next.js, React, Node.js, TypeScript]
+secondary:    [Zapier, Odoo ERP, REST APIs, PostgreSQL, WordPress, PHP]
+specialty:    replacing manual work with systems that run while you sleep
+confirmed:    "7-agent AI service desk · 240+ production workflows · ERP order automation"
+rules_of_engagement: "Good code is like good humor — clean, precise, and makes people happy."
 ```
 
 ---
 
-## 🛰️ Featured Builds
+## ▣ COMPLETED OPERATIONS
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ CogWorkLabs — AI Content Engine
-A **multi-niche content pipeline**: one template codebase that powers multiple niche sites, with AI-generated, SEO-structured articles, services and glossary pages published automatically.
+#### `OP-01` &nbsp;AI Service Desk — TLC Tech
+<sub>🟢 <b>STATUS:</b> DEPLOYED &nbsp;·&nbsp; <b>CLASS:</b> MULTI-AGENT AI</sub>
 
-- Next.js 15 App Router, flat + nested URL routing with 301 migration layer
-- `postgres.js` data layer over self-hosted PostgreSQL
-- Auto internal-linking, dynamic sitemaps, on-demand `revalidateTag`
-- Glossary pages pre-rendered to real HTML for crawlers
+<img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/fe6fedbd29afd2811cfe2cfa665c9721-1794576393290/AI-Powered%20IT%20Service%20Desk%20Dashboard%20(1).png" width="100%" alt="TLC Tech AI service desk dashboard" />
 
-`Next.js` `TypeScript` `PostgreSQL` `Prisma` `Tailwind` `Claude API`
+Seven specialized AI agents handle ticket intake, triage, data enrichment, help-desk routing and after-hours scheduling for an IT support team.
+
+**After-action:** routing time cut from **20–30 min to ~5 min**.
+
+`AI Agents` `Automation` `Help Desk` `Dashboards`
 
 </td>
 <td width="50%" valign="top">
 
-### ⏱️ CRON Sync Service
-The **brain behind the pipeline** — a standalone TypeScript service on a VPS that syncs, transforms and fans content out to every niche database on a schedule.
+#### `OP-02` &nbsp;AI B2B Order Processing — The Unscented Company
+<sub>🟢 <b>STATUS:</b> DEPLOYED &nbsp;·&nbsp; <b>CLASS:</b> AI + ERP</sub>
 
-- `node-cron` scheduler with run-on-startup + one-shot modes
-- Per-niche config, schema push to all target DBs, migrations
-- Private networking between services over WireGuard
-- Python + PowerShell one-command deploy & remote health checks
+<img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/f37d0e6b3d5d590e98d918b915883d86-1794576448349/AI-Powered%20B2B%20Order%20Processing.png" width="100%" alt="AI-powered B2B order processing" />
 
-`Node.js` `TypeScript` `node-cron` `WireGuard` `systemd` `Python`
+PDF and email purchase orders are read by AI, extracted, validated and turned into sales orders in Odoo automatically. No more manual order entry.
+
+**After-action:** less admin work, fewer entry errors, a workflow that scales.
+
+`AI Extraction` `Odoo ERP` `Email + PDF` `Automation`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 15mhub.com
-A **scalable business platform** built for growth — designed, developed and shipped end to end.
+#### `OP-03` &nbsp;LawHQ — E-Signature & Document Suite
+<sub>🟢 <b>STATUS:</b> DELIVERED &nbsp;·&nbsp; <b>CLASS:</b> FULL-STACK PLATFORM</sub>
 
-<a href="https://15mhub.com"><img src="https://img.shields.io/badge/Visit-15mhub.com-24c6dc?style=flat-square&logo=googlechrome&logoColor=white" alt="Visit" /></a>
+<img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/72b4bb0b66576ce69a4ab3e6869c6d2a-1794576338450/LawHQ%20Legal%20Document%20Management%20Suite.png" width="100%" alt="LawHQ legal document management suite" />
 
-`Full-Stack` `Performance` `SEO`
+A custom DocuSign alternative for a law firm: edit documents, request and collect signatures, verify signed files, with full audit logs and automated notifications.
+
+**After-action:** one secure platform instead of a stack of third-party tools.
+
+`Full-Stack` `E-Signature` `Audit Logs` `Notifications`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧘 BodySoul Management
-A **custom WordPress booking plugin** — scheduling, appointment management and admin tooling, built from scratch instead of bolted together from 10 plugins.
+#### `OP-04` &nbsp;Laudable — Workflow Automation
+<sub>🟢 <b>STATUS:</b> DELIVERED &nbsp;·&nbsp; <b>CLASS:</b> AUTOMATION AT SCALE</sub>
 
-`WordPress` `PHP` `MySQL` `JavaScript`
+<img src="https://fiverr-res.cloudinary.com/image/upload/f_auto,q_auto,t_portfolio_project_large/v1/attachments/project_item/attachment/d38b74088ff1a6096c40bac8d292b5ea-1794576171353/Laudable%20Workflow%20Automation%20Dashboard.png" width="100%" alt="Laudable workflow automation dashboard" />
+
+**240+ Zapier workflows** connecting SaaS tools and APIs across onboarding, lead management, sales pipeline, marketing and internal ops, plus API integrations and rapid prototypes.
+
+**After-action:** the team focuses on growth, not copy-paste admin.
+
+`Zapier` `API Integrations` `SaaS` `Prototyping`
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧬 How My Pipeline Works
-
-```mermaid
-flowchart LR
-    A[(Source DB)] -->|hourly cron| B[CRON Sync Service<br/>node-cron · TypeScript]
-    B --> C{Niche Router}
-    C --> D[(Automation DB)]
-    C --> E[(Scraping DB)]
-    C --> F[(Trading DB)]
-    D --> G[Next.js 15 Site<br/>App Router · SSR]
-    G -->|revalidateTag| H[🌍 Fresh SEO pages<br/>blog · services · glossary]
-    style B fill:#302b63,stroke:#24c6dc,color:#fff
-    style G fill:#0f0c29,stroke:#24c6dc,color:#fff
-    style H fill:#24c6dc,stroke:#302b63,color:#0f0c29
-```
+<p align="center">
+  <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/FULL%20MISSION%20LOG-FIVERR%20PORTFOLIO-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Full portfolio on Fiverr" /></a>
+</p>
 
 ---
 
-## 🧰 Arsenal
+## ▣ MISSION BRIEFING
 
 <p align="center">
-  <b>Frontend</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="Frontend" />
+  <img src="assets/briefing.svg" width="100%" alt="TLC Tech: IT ticket → Intake → Triage → Enrichment → Routing → After-Hours agents → Resolved. Routing time 20–30 min → ~5 min." />
 </p>
+
+---
+
+## ▣ LOADOUT
+
 <p align="center">
-  <b>Backend &amp; Data</b><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,mysql,php,firebase&theme=dark" alt="Backend" />
-</p>
-<p align="center">
-  <b>CMS, Infra &amp; Tooling</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind&theme=dark" alt="Frontend" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,prisma,mongodb,mysql,php,firebase&theme=dark" alt="Backend" /><br/>
   <img src="https://skillicons.dev/icons?i=wordpress,linux,docker,nginx,bash,python,git,github&theme=dark" alt="Infra" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude%20API-AI%20Content-d97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude API" />
-  <img src="https://img.shields.io/badge/node--cron-Scheduling-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="node-cron" />
-  <img src="https://img.shields.io/badge/PM2-Process%20Manager-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
-  <img src="https://img.shields.io/badge/WireGuard-Private%20Net-88171A?style=for-the-badge&logo=wireguard&logoColor=white" alt="WireGuard" />
+  <img src="https://img.shields.io/badge/AI%20AGENTS-MULTI--AGENT-4b5320?style=for-the-badge&logo=robotframework&logoColor=e8e4d8&labelColor=0a0b08" alt="AI agents" />
+  <img src="https://img.shields.io/badge/ZAPIER-240%2B%20FLOWS-4b5320?style=for-the-badge&logo=zapier&logoColor=e8e4d8&labelColor=0a0b08" alt="Zapier" />
+  <img src="https://img.shields.io/badge/ODOO-ERP-4b5320?style=for-the-badge&logo=odoo&logoColor=e8e4d8&labelColor=0a0b08" alt="Odoo" />
+  <img src="https://img.shields.io/badge/REST%20APIS-INTEGRATIONS-4b5320?style=for-the-badge&logo=postman&logoColor=e8e4d8&labelColor=0a0b08" alt="APIs" />
 </p>
 
 ---
 
-## 📊 GitHub Telemetry
+## ▣ COMBAT RECORD
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=HaseebAther&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff&count_private=true&include_all_commits=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaseebAther&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff&langs_count=8" alt="Top languages" />
+  <img src="https://raw.githubusercontent.com/HaseebAther/HaseebAther/output/combat-record.svg" width="49%" alt="Combat record" />
+  <img src="https://raw.githubusercontent.com/HaseebAther/HaseebAther/output/loadout.svg" width="49%" alt="Language loadout" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=HaseebAther&theme=tokyonight&hide_border=true&background=0F0C29&ring=24C6DC&fire=24C6DC&currStreakLabel=24C6DC" alt="Streak" />
+  <img src="https://streak-stats.demolab.com?user=HaseebAther&background=0A0B08&border=2A3020&stroke=2A3020&ring=C0392B&fire=C0392B&currStreakNum=E8E4D8&sideNums=E8E4D8&currStreakLabel=8F9D5A&sideLabels=8F9D5A&dates=8A8778&border_radius=0" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaseebAther&bg_color=0f0c29&color=ffffff&line=24c6dc&point=ffffff&area=true&area_color=302b63&hide_border=true&custom_title=Commit%20Activity" width="100%" alt="Activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaseebAther&theme=onedark&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
+  <img src="https://raw.githubusercontent.com/HaseebAther/HaseebAther/output/recon.svg" width="100%" alt="Contributions, last 30 days" />
 </p>
 
 ---
 
-## 🐍 Eating My Contributions
+## ▣ RECON SWEEP
 
 <p align="center">
   <picture>
@@ -164,18 +157,14 @@ flowchart LR
 
 ---
 
-## 🤝 Let's Build Something
+## ▣ REQUEST EXTRACTION
 
 <p align="center">
-  <i>Need a content engine, an automation pipeline, a custom WordPress plugin, or a site that ships itself?</i><br/><br/>
-  <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/itzhaseebather%40gmail.com-Say%20Hi-24c6dc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <i>Drowning in manual tickets, orders or copy-paste workflows? Call in an airstrike of automation.</i><br/><br/>
+  <a href="https://www.fiverr.com/users/haseebxather/portfolio/"><img src="https://img.shields.io/badge/HIRE%20ON-FIVERR-1dbf73?style=for-the-badge&logo=fiverr&logoColor=e8e4d8&labelColor=0a0b08" alt="Hire on Fiverr" /></a>
+  <a href="mailto:itzhaseebather@gmail.com"><img src="https://img.shields.io/badge/itzhaseebather%40gmail.com-OPEN%20COMMS-c0392b?style=for-the-badge&logo=gmail&logoColor=e8e4d8&labelColor=0a0b08" alt="Email me" /></a>
 </p>
 
 <p align="center">
-  <b>Always Learning · Always Building · Always Optimizing</b>
-</p>
-
-<!-- ═══════════════════════════  FOOTER  ═══════════════════════════ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
+  <img src="assets/footer.svg" width="100%" alt="Ghost out" />
 </p>
