@@ -84,8 +84,8 @@
     <text x="320" y="72">// TASK FORCE: FULL-STACK + AI  ·  CLEARANCE: LEVEL 5</text>
   </g>
   <g class="r2">
-    <text class="t flick" x="316" y="152" font-size="74" fill="#e8e4d8" letter-spacing="5">HASEEB ATHER</text>
-  </g>
+<text class="t flick" x="316" y="150" font-size="64" fill="#e8e4d8" letter-spacing="4"
+      textLength="530" lengthAdjust="spacingAndGlyphs">HASEEB ATHER</text>  </g>
   <g class="m r3" font-size="16" fill="#8f9d5a" letter-spacing="3">
     <text x="320" y="190">CALLSIGN: <tspan fill="#e8e4d8" font-weight="bold">GHOST</tspan>  //  AI AUTOMATION ENGINEER</text>
   </g>
